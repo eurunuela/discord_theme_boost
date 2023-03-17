@@ -1,0 +1,26 @@
+:root {
+  --mention-foreground: var(--arc-palette-foregroundPrimary) !important;
+  --mention-background: var(--arc-palette-foregroundTertiary) !important;
+  --background-primary: var(--arc-palette-minContrastColor) !important;
+  --background-secondary: var(--arc-palette-background) !important;
+  --background-tertiary: var(--arc-palette-backgroundExtra) !important;
+  --channeltextarea-background: var(--arc-background-gradient-color0) !important;
+  --background-secondary-alt: var(--arc-palette-backgroundExtra) !important;
+  --background-modifier-active: var(--arc-palette-subtitle) !important;
+  --background-mentioned: var(--arc-background-gradient-color1) !important;
+  --brand-experiment: var(--arc-palette-minContrastColor) !important;
+  --brand-experiment-600: var(--arc-palette-cutoutColor) !important;
+}
+
+.slateTextArea-27tjG0 {
+  color: var(--arc-palette-title) !important;
+}
+
+.circleIconButton-1VxDrg {
+  color: var(--arc-palette-foregroundSecondary) !important;
+}
+
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+  background-color: var(--arc-palette-foregroundSecondary) !important;
+  color: var(--arc-palette-minContrastColor) !important;
+}
